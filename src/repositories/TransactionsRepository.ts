@@ -1,5 +1,4 @@
 import Transaction from '../models/Transaction';
-
 interface Balance {
   income: number;
   outcome: number;
